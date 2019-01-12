@@ -9,7 +9,7 @@
 </style>
 <link rel="stylesheet" href="./css/reveal.css"/>
 
-<link rel="stylesheet" href="./css/theme/blood.css" id="theme"/>
+<link rel="stylesheet" href="./css/theme/solarized.css" id="theme"/>
 
 
 <!-- If the query includes 'print-pdf', include the PDF print sheet -->
@@ -26,22 +26,22 @@
 <body>
 <div class="reveal">
 <div class="slides">
-<section id="sec-title-slide"><h1 class="title">LFS (Linux from scratch)</h1><h2 class="author">Zaim Waqar</h2><p class="date">Created: 2019-01-12 Sat 16:00</p>
+<section id="sec-title-slide"><h1 class="title">LFS (Linux from scratch)</h1><h2 class="author">Zaim Waqar</h2><p class="date">Created: 2019-01-12 Sat 15:59</p>
 </section>
 <section>
-<section id="slide-orgf8b3ed6">
-<h2 id="orgf8b3ed6">Overview</h2>
+<section id="slide-orgda11dc6">
+<h2 id="orgda11dc6">Overview</h2>
 </section>
 </section>
 <section>
-<section id="slide-orgaeb4b41" data-background="./images/question.jpeg" data-background-size="200px" data-background-repeat="repeat">
-<h2 id="orgaeb4b41">(Why )should you read this?</h2>
+<section id="slide-org04631f5" data-background="./images/question.jpeg" data-background-size="200px" data-background-repeat="repeat">
+<h2 id="org04631f5">(Why )should you read this?</h2>
 </section>
-<section id="slide-orgc5f47a1" data-background="./images/windows.jpg" data-background-size="875px">
-<h3 id="orgc5f47a1">Why not Windows?</h3>
+<section id="slide-orgf14a1a5" data-background="./images/windows.jpg" data-background-size="875px">
+<h3 id="orgf14a1a5">Why not Windows?</h3>
 </section>
-<section id="slide-org411458e" data-background="./images/distros.png" data-background-size="775px">
-<h3 id="org411458e">Why not a distro?</h3>
+<section id="slide-orgd9628c7" data-background="./images/distros.png" data-background-size="775px">
+<h3 id="orgd9628c7">Why not a distro?</h3>
 </section>
 </section>
 </div>

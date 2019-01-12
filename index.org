@@ -1,0 +1,25 @@
+#+title:LFS (Linux from scratch)
+#+author: Zaim Waqar
+#+OPTIONS: toc:nil num:nil
+#+reveal_theme:blood
+#+reveal_trans:slide
+* Overview
+ :PROPERTIES: 
+ :END:
+* (Why )should you read this?
+  :PROPERTIES: 
+  :reveal_background: ./images/question.jpeg
+  :reveal_background_size: 200px
+  :reveal_background_repeat: repeat
+  :END:
+** Why not Windows?
+  :PROPERTIES: 
+  :reveal_background: ./images/windows.jpg
+  :reveal_background_size: 875px
+  :END:
+** Why not a distro?
+  :PROPERTIES: 
+  :reveal_background: ./images/distros.png
+  :reveal_background_size: 775px
+  :END:
+
